@@ -4,6 +4,7 @@
 This is a Podcast Downloader written in Python. You can search and download all episodes of a Podcast.
 
 Watch in action:
+
 [![Podcast Downloader Video](http://img.youtube.com/vi/bBPvGmUDzsM/0.jpg)](https://www.youtube.com/watch?v=bBPvGmUDzsM)
 
 ## Getting Started
